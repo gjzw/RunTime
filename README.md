@@ -27,4 +27,4 @@
 }
 ```
 ## 效果
-![]https://raw.githubusercontent.com/gjzw/RunTime/master/source/img1.gif
+![](https://raw.githubusercontent.com/gjzw/RunTime/master/source/img1.gif)
